@@ -1,7 +1,7 @@
-// import "firebaseConfigJson" from "./../security/firebase-config.json";
-
-// import * as json from "./../security/firebase-config.json";
-
+/**
+ * Firebase json file contains the credentials to access database.
+ * to be able to see this file, call @victorjatoba
+ */
 var firebaseConfigJson = require('./../security/firebase-config.json');
 
 // The file contents for the current environment will overwrite these during build.
