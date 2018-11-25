@@ -4,5 +4,5 @@
 Cross-platform app showing how to persist and retrive items from firebase.
 
 ### Technical details:
-* Angular 7
+* Angular 6
 * Ionic 4
