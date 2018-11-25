@@ -1,2 +1,4 @@
-# fire-angular-ionic-start
-Cross-platform app getting started project using Firebase, Angular 6 and Ionic 4
+# Tutorial: #01 
+## persist items from firebase by Angular+Ionic
+
+Cross-platform app getting started using Firebase, Angular 6 and Ionic 4
