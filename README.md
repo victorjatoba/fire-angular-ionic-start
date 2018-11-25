@@ -1,4 +1,8 @@
 # Tutorial: #01 
 ## persist items from firebase by Angular+Ionic
 
-Cross-platform app getting started using Firebase, Angular 6 and Ionic 4
+Cross-platform app showing how to persist and retrive items from firebase.
+
+### Technical details:
+* Angular 7
+* Ionic 4
