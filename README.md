@@ -7,7 +7,7 @@
 ![](header.png)
 
 ## Technical details:
-* Angular 6+
+* Angular 7+
 * Ionic 4+
 
 ## Installation
