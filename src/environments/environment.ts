@@ -2,7 +2,7 @@
  * Firebase json file contains the credentials to access database.
  * to be able to see this file, call @victorjatoba
  */
-var firebaseConfigJson = require('./../security/firebase-config.json');
+var firebaseConfigJson = require('./../../../security/firebase-config.json');
 
 // The file contents for the current environment will overwrite these during build.
 // The build system defaults to the dev environment which uses `environment.ts`, but if you do
