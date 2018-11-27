@@ -12,7 +12,7 @@
 
 ## Installation
 
-OS X & Linux:
+Angular + Ionic:
 
 ```sh
 sudo npm i -D -E ionic@latest
@@ -21,19 +21,10 @@ sudo npm i -g cordova
 ionic start tuto-fire-angular-ionic-start blank --type=angular
 ```
 
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
+Firebase:
+```
+npm install --save firebase
+npm install --save angularfire2
 ```
 
 ## Meta
