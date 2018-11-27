@@ -1,16 +1,14 @@
-Cross-platform app showing how to persist and retrive items from firebase.
-
-### Technical details:
-* Angular 6
-* Ionic 4
-
 # Tutorial: #01: Basic Firebase persistency example
-> Persisting items on firebase by Angular and Ionic cross-platform.
+> Cross-platform app showing how to persist and retrive items from firebase.
 
 ![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)
 
 
 ![](header.png)
+
+## Technical details:
+* Angular 6+
+* Ionic 4+
 
 ## Installation
 
