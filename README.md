@@ -4,7 +4,7 @@
 ![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)
 
 
-![](header.png)
+![](https://raw.githubusercontent.com/victorjatoba/tuto-fire-angular-ionic-start/master/screenshot.png | width=80)
 
 ## Technical details:
 * Angular 7+
